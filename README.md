@@ -1,16 +1,53 @@
-## Hi there 👋
+## 👨‍💻 Lucas Joaquim Lirussi
 
-<!--
-**Lucas-Lirussi/Lucas-Lirussi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Ciência de Dados, com foco em análise, tratamento de dados, criação de métricas e dashboards.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Resumo profissional
+Me formando em Ciência de Dados, interesse em transformar dados em informações úteis para tomada de decisão, com organização, clareza e aprendizado constante.
+
+---
+
+### 🛠️ Habilidades técnicas
+**Linguagens**
+- Python
+- SQL
+
+**Bibliotecas**
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+**Ferramentas**
+- Excel
+- Google Sheets 
+- Power BI 
+- Google Colab
+- Data Studio
+
+**Outros conhecimentos**
+- Manipulação e limpeza de dados
+- Lógica de programação
+- Criação de métricas e dashboards
+- Estatística
+- Resolução de problemas
+- Boa comunicação e trabalho em equipe
+
+---
+
+### 🎓 Formação
+**Bacharelado em Ciência de Dados — UNIVESP**  
+Início: 07/2025 | Previsão de conclusão: 07/2029
+
+---
+
+### 📂 Projetos
+Neste GitHub compartilho exercícios e projetos desenvolvidos durante meus estudos em dados.
+
+---
+
+### 📫 Contato
+- LinkedIn: https://www.linkedin.com/in/lucas-lirussi-184299196  
+- Email: lirussilukas@gmail.com
