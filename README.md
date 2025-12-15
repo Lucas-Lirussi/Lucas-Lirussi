@@ -5,7 +5,7 @@ Estudante de Ciência de Dados, com foco em análise, tratamento de dados, cria�
 ---
 
 ### 🧠 Resumo profissional
-Me formando em Ciência de Dados, interesse em transformar dados em informações úteis para tomada de decisão, com organização, clareza e aprendizado constante.
+Cursando Ciência de Dados, interesse em transformar dados em informações úteis para tomada de decisão, com organização, clareza e aprendizado constante.
 
 ---
 
@@ -44,7 +44,7 @@ Início: 07/2025 | Previsão de conclusão: 07/2029
 ---
 
 ### 📂 Projetos
-Neste GitHub compartilho exercícios e projetos desenvolvidos durante meus estudos em dados.
+Neste GitHub compartilho exercícios e projetos desenvolvidos durante meus estudos.
 
 ---
 
